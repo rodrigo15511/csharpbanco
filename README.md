@@ -1,21 +1,23 @@
-# Estudo C# com Banco de Dados / C# Study with Database
+Estudo C# com Banco de Dados / C# Study with Database
+Este repositório contém um projeto de aprendizado utilizando C# e integração com banco de dados. O objetivo principal é explorar como realizar operações de CRUD (Criar, Ler, Atualizar, Deletar) em um banco de dados relacional (SQL Server ou MySQL), aplicando boas práticas para manipulação e armazenamento de dados.
 
-Este repositório contém um projeto de estudo utilizando **C#** e implementando um banco de dados. O objetivo principal é aprender como trabalhar com banco de dados em C#, realizando operações como **CRUD** (Create, Read, Update, Delete) com um banco de dados relacional (SQL Server ou MySQL).
+Funcionalidades
+Estabelecimento de conexão com bancos de dados SQL Server ou MySQL
 
-### Funcionalidades
-- Conexão com banco de dados SQL Server ou MySQL
-- Operações CRUD básicas
-- Uso de **ADO.NET** ou **Entity Framework** para interagir com o banco de dados
-- Criação de aplicações C# para inserção e manipulação de dados
-- Exibição de dados salvos no banco de dados
+Implementação de operações CRUD essenciais
 
-  <hr>
+Uso de ADO.NET ou Entity Framework para interação com o banco de dados
 
-This repository contains a study project using **C#** and implementing a database. The main objective is to learn how to work with a database in C#, performing operations such as **CRUD** (Create, Read, Update, Delete) with a relational database (SQL Server or MySQL).
+Desenvolvimento de aplicações C# para inserção e gestão de dados
 
-### Features
-- Connection to SQL Server or MySQL database
-- Basic CRUD operations
-- Use of **ADO.NET** or **Entity Framework** to interact with the database
-- Creation of C# applications for data insertion and manipulation
-- Display of data saved in the database
+Exibição dos dados armazenados no banco de dados
+
+<hr>
+This repository contains a learning project using C# with database integration. The main goal is to explore how to perform CRUD (Create, Read, Update, Delete) operations with a relational database (SQL Server or MySQL), applying best practices for data manipulation and storage.
+
+Features
+Establishing connection to SQL Server or MySQL databases
+Implementation of basic CRUD operations
+Use of ADO.NET or Entity Framework to interact with the database
+Development of C# applications for data insertion and management
+Displaying the data saved in the database
